@@ -1,0 +1,10 @@
+pandas
+numpy
+python-dotenv
+gradio
+langchain>=0.2.2
+langchain-community>=0.2.2
+langchain-huggingface>=0.0.1
+langchain-chroma>=0.0.1
+chromadb
+sentence-transformers
